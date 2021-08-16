@@ -237,7 +237,7 @@ PrefabInstance:
     - target: {fileID: 176996882811808777, guid: 863853c8fd5110640bcd07771519cc13, type: 3}
       propertyPath: m_Cookie
       value: 
-      objectReference: {fileID: 8900000, guid: 81f4872c3033e4945b822d1710c4a7bb, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 176996882811808777, guid: 863853c8fd5110640bcd07771519cc13, type: 3}
       propertyPath: m_Intensity
       value: 1

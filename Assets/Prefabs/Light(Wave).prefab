@@ -242,6 +242,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ModernLantern
       objectReference: {fileID: 0}
+    - target: {fileID: 6971485028668240893, guid: 863853c8fd5110640bcd07771519cc13, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: eceac9664a6b9634f9a4cff348fe0146, type: 2}
     - target: {fileID: 7553895023817226093, guid: 863853c8fd5110640bcd07771519cc13, type: 3}
       propertyPath: m_RootOrder
       value: 2

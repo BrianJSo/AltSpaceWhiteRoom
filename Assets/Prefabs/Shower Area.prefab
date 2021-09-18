@@ -7494,7 +7494,7 @@ GameObject:
   - component: {fileID: 1429769914388395571}
   - component: {fileID: 2955375515379071277}
   m_Layer: 0
-  m_Name: Reflection Probe
+  m_Name: ShowerArea ReflectionProbe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

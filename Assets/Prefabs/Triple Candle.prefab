@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 163649055}
   - component: {fileID: 163649054}
-  - component: {fileID: 163649053}
   m_Layer: 0
   m_Name: Point Light (3)
   m_TagString: Untagged
@@ -83,7 +82,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -94,23 +93,6 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!114 &163649053
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 163649052}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 350c60ab7e73d994290a91221907ce8e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  waveform: 5
-  baseStart: 1
-  amplitude: 0.1
-  phase: 0
-  frequency: 0
 --- !u!1 &625914933
 GameObject:
   m_ObjectHideFlags: 0
@@ -121,7 +103,6 @@ GameObject:
   m_Component:
   - component: {fileID: 625914935}
   - component: {fileID: 625914934}
-  - component: {fileID: 625914936}
   m_Layer: 0
   m_Name: Point Light (1)
   m_TagString: Untagged
@@ -194,7 +175,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -205,23 +186,6 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!114 &625914936
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 625914933}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 350c60ab7e73d994290a91221907ce8e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  waveform: 5
-  baseStart: 1
-  amplitude: 0.1
-  phase: 0
-  frequency: 0
 --- !u!1 &1514112754
 GameObject:
   m_ObjectHideFlags: 0
@@ -232,7 +196,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1514112757}
   - component: {fileID: 1514112756}
-  - component: {fileID: 1514112755}
   m_Layer: 0
   m_Name: Point Light (2)
   m_TagString: Untagged
@@ -305,7 +268,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -316,23 +279,6 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!114 &1514112755
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1514112754}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 350c60ab7e73d994290a91221907ce8e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  waveform: 5
-  baseStart: 1
-  amplitude: 0.1
-  phase: 0
-  frequency: 0
 --- !u!1 &1601905840
 GameObject:
   m_ObjectHideFlags: 0
@@ -343,7 +289,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1601905842}
   - component: {fileID: 1601905841}
-  - component: {fileID: 1601905843}
   m_Layer: 0
   m_Name: Light
   m_TagString: Untagged
@@ -427,23 +372,6 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!114 &1601905843
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1601905840}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 350c60ab7e73d994290a91221907ce8e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  waveform: 5
-  baseStart: 1
-  amplitude: 0.1
-  phase: 0
-  frequency: 0
 --- !u!1 &1300600449811229175
 GameObject:
   m_ObjectHideFlags: 0

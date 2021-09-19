@@ -238,6 +238,18 @@ PrefabInstance:
       propertyPath: m_Cookie
       value: 
       objectReference: {fileID: 8900000, guid: 28355759af0a5664ba3a3ec5074d2934, type: 3}
+    - target: {fileID: 1898116174505227788, guid: 863853c8fd5110640bcd07771519cc13, type: 3}
+      propertyPath: m_Intensity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1898116174505227788, guid: 863853c8fd5110640bcd07771519cc13, type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1898116174505227788, guid: 863853c8fd5110640bcd07771519cc13, type: 3}
+      propertyPath: m_ShadowRadius
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5809969788820766468, guid: 863853c8fd5110640bcd07771519cc13, type: 3}
       propertyPath: m_Name
       value: ModernLantern

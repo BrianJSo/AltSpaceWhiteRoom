@@ -18,7 +18,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &3513913730839572952
 Transform:
@@ -251,9 +251,17 @@ MonoBehaviour:
   assetGuid: 
   m_Mesh: {fileID: 0}
   m_IsSelectable: 1
-  m_SelectedFaces: 
-  m_SelectedEdges: []
-  m_SelectedVertices: 
+  m_SelectedFaces: 00000000
+  m_SelectedEdges:
+  - a: 0
+    b: 0
+  - a: 0
+    b: 0
+  - a: 0
+    b: 0
+  - a: 0
+    b: 0
+  m_SelectedVertices: 00000000000000000000000000000000
 --- !u!23 &3513913730839572955
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -328,11 +336,11 @@ GameObject:
   - component: {fileID: 7230748272100084432}
   - component: {fileID: 1708848739179745601}
   m_Layer: 0
-  m_Name: Point Light
+  m_Name: Door Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &7230748272100084432
 Transform:
@@ -424,7 +432,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1803969683063221236
 Transform:
@@ -465,7 +473,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &8260308846047464999
 Transform:
@@ -775,6 +783,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: HighPanel (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3959551834051269801, guid: 739dbc23b02d1324ebc9e926e27f2f30, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 3959551834051269804, guid: 739dbc23b02d1324ebc9e926e27f2f30, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -848,6 +860,10 @@ PrefabInstance:
     - target: {fileID: 3959551834051269801, guid: 739dbc23b02d1324ebc9e926e27f2f30, type: 3}
       propertyPath: m_Name
       value: HighPanel (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3959551834051269801, guid: 739dbc23b02d1324ebc9e926e27f2f30, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 3959551834051269804, guid: 739dbc23b02d1324ebc9e926e27f2f30, type: 3}
       propertyPath: m_Mesh
@@ -923,6 +939,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: HighPanel (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 3959551834051269801, guid: 739dbc23b02d1324ebc9e926e27f2f30, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 3959551834051269804, guid: 739dbc23b02d1324ebc9e926e27f2f30, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -996,6 +1016,10 @@ PrefabInstance:
     - target: {fileID: 3959551834051269801, guid: 739dbc23b02d1324ebc9e926e27f2f30, type: 3}
       propertyPath: m_Name
       value: HighPanel (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3959551834051269801, guid: 739dbc23b02d1324ebc9e926e27f2f30, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 3959551834051269804, guid: 739dbc23b02d1324ebc9e926e27f2f30, type: 3}
       propertyPath: m_Mesh

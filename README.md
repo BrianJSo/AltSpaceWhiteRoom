@@ -1,2 +1,2 @@
 # AltSpaceWhiteRoom
-Indoor Onsen
+An indoor onsen 3D showcase for AltSpaceVR
